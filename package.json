@@ -1,0 +1,26 @@
+{
+  "name": "next-js-basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rajasekarraj/next-js-basic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rajasekarraj/next-js-basic/issues"
+  },
+  "homepage": "https://github.com/Rajasekarraj/next-js-basic#readme",
+  "dependencies": {
+    "next": "^10.0.9",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
